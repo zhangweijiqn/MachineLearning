@@ -1,0 +1,9 @@
+books/机器学习_周志华.pdf filter=lfs diff=lfs merge=lfs -text
+books/动手深度学习--李沐.pdf filter=lfs diff=lfs merge=lfs -text
+books/自然语言综述ed3book.pdf filter=lfs diff=lfs merge=lfs -text
+books/CNN_book.pdf filter=lfs diff=lfs merge=lfs -text
+books/DeepLearningBook.pdf filter=lfs diff=lfs merge=lfs -text
+books/吴恩达+++Programming+Assignments+of+Deep+Learning+Specializati.pdf filter=lfs diff=lfs merge=lfs -text
+books/深度学习_cn.pdf filter=lfs diff=lfs merge=lfs -text
+books/TensorFlow[[:space:]]实战Google深度学习框架[[:space:]]第2版.pdf filter=lfs diff=lfs merge=lfs -text
+books/《Machine[[:space:]]Learning[[:space:]]Yearning》-吴恩达.pdf filter=lfs diff=lfs merge=lfs -text
